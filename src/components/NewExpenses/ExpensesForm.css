@@ -6,13 +6,13 @@
   text-align: left;
 }
 
-.iamlabel {
+.new-expense__control label {
   font-weight: bold;
   margin-bottom: 0.5rem;
   display: block;
 }
 
-.iaminput {
+.new-expense__control input {
   font: inherit;
   padding: 0.5rem;
   border-radius: 6px;
